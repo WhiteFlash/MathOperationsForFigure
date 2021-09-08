@@ -1,0 +1,12 @@
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\bin\Debug\net5.0\Figures.Lib.deps.json
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\bin\Debug\net5.0\Figures.Lib.dll
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\bin\Debug\net5.0\ref\Figures.Lib.dll
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\bin\Debug\net5.0\Figures.Lib.pdb
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.csproj.AssemblyReference.cache
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.AssemblyInfoInputs.cache
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.AssemblyInfo.cs
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.csproj.CoreCompileInputs.cache
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.dll
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\ref\Figures.Lib.dll
+D:\All-files\Work\Тестовые задания\mindbox\Figures\Figures.Lib\obj\Debug\net5.0\Figures.Lib.pdb
