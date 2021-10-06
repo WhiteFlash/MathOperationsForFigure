@@ -1,11 +1,9 @@
-﻿using Figures.Lib.AbstractClass;
+﻿using Figures.Lib.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Figures.Lib
 {
-    public class Triangle : ASquare
+    public class Triangle : ISquareFigure
     {
         private int a;
         private int b;
@@ -57,17 +55,17 @@ namespace Figures.Lib
             CheckForRightAngled();
         }
 
-        public override double Square { get; set; }
+        public double Square { get; set; }
         public bool IsRightAngled { get; private set; }
 
-        public override void CountSquare() 
+        public void CountSquare() 
         {
             var p = (A + B + C) / 2;
             var s = Math.Sqrt(p*(p - A) * (p - B) * (p - C));
             Square = Math.Round(s, 2);
         }
 
-        private void CheckForRightAngled()
+        public virtual void CheckForRightAngled()
         {
             CheckNumber();
 
